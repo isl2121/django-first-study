@@ -1,0 +1,16 @@
+[21/Sep/2018 11:41:29] DEBUG [polls.views:77] vote().question_id: %s % question_id
+[21/Sep/2018 11:41:33] CRITICAL [polls.views:15] I'm here
+[21/Sep/2018 11:41:58] DEBUG [polls.views:33] vote().question_id: %s % question_id
+[21/Sep/2018 11:42:35] DEBUG [polls.views:33] vote().question_id: %s % question_id
+[21/Sep/2018 11:44:04] DEBUG [polls.views:33] vote().question_id: %s % question_id
+[21/Sep/2018 11:44:12] DEBUG [polls.views:33] vote().question_id: %s % question_id
+[21/Sep/2018 11:44:52] DEBUG [polls.views:52] vote().question_id: %s % question_id
+[21/Sep/2018 11:45:15] DEBUG [polls.views:52] vote().question_id: %s % question_id
+[21/Sep/2018 11:46:26] DEBUG [polls.views:52] vote().question_id: %s % question_id
+[21/Sep/2018 11:47:09] DEBUG [polls.views:52] vote().question_id: %s % question_id
+[21/Sep/2018 11:51:15] DEBUG [polls.views:35] vote().question_id: %s % question_id
+[21/Sep/2018 12:01:24] DEBUG [polls.views:35] vote().question_id: %s % question_id
+[21/Sep/2018 12:45:30] DEBUG [polls.views:35] vote().question_id: %s % question_id
+[21/Sep/2018 12:55:46] DEBUG [polls.views:35] vote().question_id: %s % question_id
+[21/Sep/2018 13:10:59] DEBUG [polls.views:35] vote().question_id: %s % question_id
+[21/Sep/2018 13:17:50] DEBUG [polls.views:35] vote().question_id: %s % question_id
